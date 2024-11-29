@@ -1,6 +1,6 @@
 const btn1 = document.getElementById('btn1');
 
-btn1.addEventListener('submit', (e) => {
+btn1.addEventListener('click', (e) => {
     e.preventDefault()
-    console.log("Hello Nathaniel")
+    alert("Web App Under Construction")
 })
